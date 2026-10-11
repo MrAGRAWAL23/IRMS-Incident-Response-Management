@@ -1,0 +1,14 @@
+{
+  "name": "irms-backend",
+  "version": "1.0.0",
+  "description": "IRMS - Incident Response Management System Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node database/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
